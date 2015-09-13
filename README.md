@@ -1,2 +1,2 @@
 # MoneySaving
-Saving your money everyweek
+Saving your money every week
